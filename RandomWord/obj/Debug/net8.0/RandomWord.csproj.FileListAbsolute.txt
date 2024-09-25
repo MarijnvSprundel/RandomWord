@@ -1,0 +1,14 @@
+C:\Users\macti\RiderProjects\RandomWord\RandomWord\bin\Debug\net8.0\RandomWord.exe
+C:\Users\macti\RiderProjects\RandomWord\RandomWord\bin\Debug\net8.0\RandomWord.deps.json
+C:\Users\macti\RiderProjects\RandomWord\RandomWord\bin\Debug\net8.0\RandomWord.runtimeconfig.json
+C:\Users\macti\RiderProjects\RandomWord\RandomWord\bin\Debug\net8.0\RandomWord.dll
+C:\Users\macti\RiderProjects\RandomWord\RandomWord\bin\Debug\net8.0\RandomWord.pdb
+C:\Users\macti\RiderProjects\RandomWord\RandomWord\obj\Debug\net8.0\RandomWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macti\RiderProjects\RandomWord\RandomWord\obj\Debug\net8.0\RandomWord.AssemblyInfoInputs.cache
+C:\Users\macti\RiderProjects\RandomWord\RandomWord\obj\Debug\net8.0\RandomWord.AssemblyInfo.cs
+C:\Users\macti\RiderProjects\RandomWord\RandomWord\obj\Debug\net8.0\RandomWord.csproj.CoreCompileInputs.cache
+C:\Users\macti\RiderProjects\RandomWord\RandomWord\obj\Debug\net8.0\RandomWord.dll
+C:\Users\macti\RiderProjects\RandomWord\RandomWord\obj\Debug\net8.0\refint\RandomWord.dll
+C:\Users\macti\RiderProjects\RandomWord\RandomWord\obj\Debug\net8.0\RandomWord.pdb
+C:\Users\macti\RiderProjects\RandomWord\RandomWord\obj\Debug\net8.0\RandomWord.genruntimeconfig.cache
+C:\Users\macti\RiderProjects\RandomWord\RandomWord\obj\Debug\net8.0\ref\RandomWord.dll
